@@ -36,7 +36,7 @@ l'affinità del proprio profilo con la figura richiesta dall'annuncio.
 
   
 ### Possibili sviluppi  
-Allo stato attuale, è palese che il codice sia ancora allo stato pseudo-embrionale. Sono molteplici i possibili sviluppi e migliorie, tra cui:  
+Sono molteplici i possibili sviluppi e migliorie, tra cui:  
 - Sviluppo di un front-end,  con una GUI che renda la conversazione più intuitiva.
 - Integrazione di più piattaforme per il lavoro (Indeed, Glassdoors, etc.) per estendere la ricerca.
 - Una fase di valutazione dell'affinità del profilo utente più articolata (che includa, ad esempio, esperienze lavorative, soft-skills, percorso di studi, certificazioni) e più robusta.
