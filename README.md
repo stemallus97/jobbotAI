@@ -1,8 +1,8 @@
-# Jobbot
+# Jobbot AI
 ## Assistente IA per la ricerca di lavoro
 
 ### Introduzione
-**Jobbot** è un progetto realizzato al termine di un percorso didattico incentrato sullo sviluppo tramite linguaggio Python e, in particolare, su concetti di *data automation*. 
+**Jobbot AI** è un progetto realizzato al termine di un percorso didattico incentrato sullo sviluppo tramite linguaggio Python e, in particolare, su concetti di *data automation*. 
 In quanto tale, questo programma ha il mero scopo didattico e di apprendimento.
 
   
