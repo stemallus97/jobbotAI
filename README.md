@@ -2,12 +2,12 @@
 ## Assistente IA per la ricerca di lavoro
 
 ### Introduzione
-**Jobbot** è un progetto realizzato al termine di un percorso didattico incentrato sullo sviluppo in linguaggio Python e, in particolare, su concetti di *data automation*. 
+**Jobbot** è un progetto realizzato al termine di un percorso didattico incentrato sullo sviluppo tramite linguaggio Python e, in particolare, su concetti di *data automation*. 
 In quanto tale, questo programma ha il mero scopo didattico e di apprendimento.
 
   
 ### Descrizione del codice
-Il programma si basa su un utilizzo combinato delle librerie Selenium e OpenAI, oltre che dei tools di openAI, ed implementa una conversazione
+Il codice si basa su un utilizzo combinato delle librerie Selenium e OpenAI, oltre che dei tools di openAI, ed implementa una conversazione
 dinamica e interattiva tra l'utente e un assistente virtuale (Jobbot) per la ricerca di lavoro.  
 La conversazione è (idealmente) suddivisa in diverse fasi:  
 - **Fase 1. Caricamento del CV in formato PDF:** Inizialmente, il programma richiederà l'inserimento di un CV in formato PDF (che, tuttavia, non è obbligatorio ai fini della conversazione).  
@@ -26,10 +26,11 @@ l'affinità del proprio profilo con la figura richiesta dall'annuncio.
 
   
 ### Possibili sviluppi  
-Allo stato attuale, è palese che il codice sia ancora allo stato embrionale. Sono molteplici i possibili sviluppi e migliorie, tra cui:  
+Allo stato attuale, è palese che il codice sia ancora allo stato pseudo-embrionale. Sono molteplici i possibili sviluppi e migliorie, tra cui:  
 - Sviluppo di un front-end,  con una GUI che renda la conversazione più intuitiva.
 - Integrazione di più piattaforme per il lavoro (Indeed, Glassdoors, etc.) per estendere la ricerca.
 - Una fase di valutazione dell'affinità del profilo utente più articolata (che includa, ad esempio, esperienze lavorative, soft-skills, percorso di studi, certificazioni) e più robusta.
+- Diminuzione del costo computazionale dei processi per rendere la conversazione più fluida.
 - Generazione di lettere di presentazione personalizzate in base al profilo utente e al ruolo scelto.
 
 
