@@ -22,7 +22,17 @@ relative a tutti gli annunci di lavoro trovati su Linkedin utilizzando il ruolo 
 richiamando il terzo tool, che utilizza Selenium per ottenere l'intera descrizione dell'offerta di lavoro. Avendo memoria dei messaggi precedenti, è possibile chiedere ulteriori
 informazioni su qualunque annuncio trovato.  
 - **Fase 5. Calcolo dell'affinità:** L'ultimo tool permette, sulla base delle informazioni contenute nel CV e sulla base dei requisiti dell'annuncio di lavoro, di valutare
-l'affinità del proprio profilo con la figura richiesta dall'annuncio.  
+l'affinità del proprio profilo con la figura richiesta dall'annuncio.
+
+### Requisiti
+- Python 3.10+
+- Librerie Python: selenium, python-dotenv, openai, os, time, json, random, re, pypdf, tkinter, shutil
+- Chrome WebDriver installato e compatibile con la tua versione di Chrome
+  
+### Configurazione
+- Crea un file .env con la tua API key: "OPENAI_API_KEY=your_api_key"
+- Installa le dipendenze: "pip install selenium python-dotenv openai"
+- Assicurati che ChromeDriver sia nel PATH.
 
   
 ### Possibili sviluppi  
