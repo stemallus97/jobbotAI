@@ -9,7 +9,7 @@ In quanto tale, questo programma ha il mero scopo didattico e di apprendimento.
 ### Descrizione del codice
 Il codice si basa su un utilizzo combinato delle librerie Selenium e OpenAI, oltre che dei tools di openAI, ed implementa una conversazione
 dinamica e interattiva tra l'utente e un assistente virtuale (Jobbot) per la ricerca di lavoro.  
-La conversazione è (idealmente) suddivisa in diverse fasi:  
+La conversazione è suddivisa in più fasi:  
 - **Fase 1. Caricamento del CV in formato PDF:** Inizialmente, il programma richiederà l'inserimento di un CV in formato PDF (che, tuttavia, non è obbligatorio ai fini della conversazione).  
 - **Fase 2. Lettura del CV da parte dell'IA:** Se caricato, si potrà chiedere la lettura, da parte dell'IA, delle informazioni contenute nel CV (primo tool), oppure si potrà avviare
 la chat con Jobbot partendo direttamente dalla fase successiva.  
